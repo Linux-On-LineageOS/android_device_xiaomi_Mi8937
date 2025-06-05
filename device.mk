@@ -163,3 +163,4 @@ $(call inherit-product, vendor/xiaomi/Mi8917/Mi8917-vendor.mk)
 else ifeq ($(PRODUCT_HARDWARE),Mi8937)
 $(call inherit-product, vendor/xiaomi/Mi8937/Mi8937-vendor.mk)
 endif
+
